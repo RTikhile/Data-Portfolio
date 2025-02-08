@@ -57,7 +57,6 @@ This project presents an interactive **Retail Analytics Dashboard** built using 
 
 ## 🚀 How to Use This Dashboard
 1. **Download the Power BI file (.pbix):**  
-   [Retail_Dashboard.pbix](https://github.com/yourusername/Retail-Dashboard-Project/blob/main/Retail_Dashboard.pbix)
 2. Open it in **Power BI Desktop**.
 3. Interact with filters and visuals to explore insights.
 
