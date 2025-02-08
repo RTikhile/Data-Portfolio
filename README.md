@@ -50,9 +50,9 @@ This project presents an interactive **Retail Analytics Dashboard** built using 
 ## 📂 Repository Structure
 
 📂 Retail-Dashboard-Project
- ┣ 📂 Datasets/            # Sample or anonymized dataset 
- ┣ 📂 Retail Dashboard/         # Power BI report (.pbix file) 
- ┣ 📜 README.md        # Project overview & findings (this file)
+- 📂 Datasets/            # Dataset 
+- 📂 Retail Dashboard/         # Power BI report (.pbix file) 
+- 📜 README.md        # Project overview & findings (this file)
 
 
 ## 🚀 How to Use This Dashboard
