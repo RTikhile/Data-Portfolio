@@ -53,7 +53,7 @@ This project presents an interactive **Retail Analytics Dashboard** built using 
 ```plaintext
 📂 Retail-Dashboard-Project
  ┣ 📂 data/            # Sample or anonymized dataset (if applicable)
- ┣ 📂 reports/         # Power BI report (.pbix file) & exported visuals
+ ┣ 📂 Retail Dashboard/         # Power BI report (.pbix file) & exported visuals
  ┣ 📜 README.md        # Project overview & findings (this file)
 
 
