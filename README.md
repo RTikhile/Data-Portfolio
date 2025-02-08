@@ -48,7 +48,7 @@ This project presents an interactive **Retail Analytics Dashboard** built using 
 - **Discount strategy analysis** indicates excessive discounts on Tables and Binders are leading to losses.
 
 ## 📂 Repository Structure
-```plaintext
+
 📂 Retail-Dashboard-Project
  ┣ 📂 Datasets/            # Sample or anonymized dataset 
  ┣ 📂 Retail Dashboard/         # Power BI report (.pbix file) 
@@ -64,6 +64,7 @@ This project presents an interactive **Retail Analytics Dashboard** built using 
 ## 🛠️ Tools & Technologies
 - **Power BI** - Data visualization & dashboarding
 - **DAX (Data Analysis Expressions)** - Custom calculations & measures
+
 
 
 
