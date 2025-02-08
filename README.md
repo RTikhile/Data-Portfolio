@@ -1,8 +1,6 @@
-# Retail-Dashboard---Power-BI
+# Retail Dashboard - Power BI Project
 
 ![image](https://github.com/user-attachments/assets/df5e674b-ee5d-4a3e-9de5-4e53da9baadb)
-
-# Retail Dashboard - Power BI Project
 
 ## 📌 Project Overview
 This project presents an interactive **Retail Analytics Dashboard** built using **Power BI**, which provides insights into **sales performance, customer trends, and key business metrics**. The dashboard enables stakeholders to make data-driven decisions by visualizing crucial retail KPIs.
